@@ -1,4 +1,4 @@
-# hello_world_app
+# Flutter Counter - Practice
 
 A new Flutter project.
 
